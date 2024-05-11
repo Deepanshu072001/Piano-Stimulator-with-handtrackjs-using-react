@@ -1,0 +1,27 @@
+.name
+{
+    font-weight: bolder;
+    color:whitesmoke;
+    font-style: italic;
+    margin-left: 2vw;
+    margin-right: 1vw;
+    cursor:default;
+    transform: skewX(-15deg);
+}
+.pianopicture
+{
+    margin-right: 60vw;
+    height:5vh;
+}
+.home
+{
+    border-right: 0.1vw solid black;
+    padding-right: 1vw;
+}
+.navbarmistake
+{
+    color:black;
+    text-decoration: none;
+    font-weight:lighter;
+    font-size: 3vh;;
+}

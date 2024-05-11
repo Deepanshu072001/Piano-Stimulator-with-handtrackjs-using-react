@@ -1,0 +1,94 @@
+.homemaindiv{
+    background-color:rgb(171, 139, 171);
+    position: relative;
+    bottom:1vh;
+    display:flex;
+    flex-wrap: wrap;
+}
+ 
+.homeheading
+{
+    color: rgb(141, 11, 104);
+    
+}
+.homeheading1
+{
+    color: rgb(141, 11, 104);
+    padding-left: 35vw;
+    
+}
+
+.homep
+{
+    border:0.3vw solid rgba(197, 10, 41, 0.505);
+    color:black;
+    width:70vw;
+}
+.homep1
+{
+    border:0.3vw solid rgba(197, 10, 41, 0.505);
+    color:black     ;
+    width:70vw;
+    height: 60vh;
+}
+.homesize
+{
+    height:60vh;
+}
+.homefirstdiv
+{
+    display: flex;
+}
+.card1{
+    height:88.5vh;
+}
+.homeseconddiv
+{
+    display:flex;
+}
+.card2
+{
+    height: 60vh;
+}
+.homeline
+{
+    line-height: 5vh;
+    font-family: "Edu NSW ACT Foundation", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.homebutton
+{
+    position: relative;
+    box-sizing: content-box;
+    left:40vw;
+    color:black;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    border:1vh solid black;
+    animation: homebutton 2s linear infinite;
+}
+@keyframes homebutton {
+    0%{
+        border-left: 1vh solid yellowgreen;
+        background-color: aquamarine;
+    }
+    40%{
+        border-top: 1vh solid rgba(172, 59, 172, 0.808);
+        background-color: antiquewhite;
+    }
+    70%{
+        border-right:1vh solid orangered;
+        background-color:burlywood
+    }
+    100%
+    {
+        border-bottom:1vh solid  rgb(97, 97, 196);
+        background-color: cornflowerblue;
+    }
+}
+.home3
+{
+    display:flex;
+    padding-bottom: 2vh;
+}

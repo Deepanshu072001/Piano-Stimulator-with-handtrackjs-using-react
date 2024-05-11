@@ -1,0 +1,77 @@
+
+#canvas
+{
+  height:80vh;
+  width:100vw;
+}
+.piano2divwhite
+{
+  display:flex;
+  height:80vh;
+  width:100vw;
+  position:relative; 
+  bottom:80.4vh;
+
+}
+.piano2white
+{
+height:100%;
+width:9%;
+background-color:rgb(255, 255, 255,0.4);
+border:0.1vw solid black;
+}
+.piano2black
+{
+
+  height:60%;
+  width:9%;
+  background-color: rgb(0, 0, 0,0.4);
+  border: 0.1vw solid white;
+  margin-right:0.4vw;
+
+  
+}
+.piano2another
+{
+  margin-left:8vw;
+}
+.firstblackpiano2
+{
+  margin-left:4.5vw;
+}
+.piano2divblack
+{
+  display:flex;
+  height:80vh;
+  width:100vw;  
+  position: relative;
+  bottom:160vh;
+
+}
+#piano2button{
+  height: 10vh;
+width:10vw;
+background-color: black;
+color:white;
+position:relative;
+bottom:155vh;
+left:43vw;
+overflow-y: hidden;
+}
+#piano2pointdiv
+{
+background-color: aquamarine;
+position:relative;
+top:1vh;
+ }
+ #piano2maindiv
+ {
+  position: relative;
+  bottom:0.9vh;
+  overflow:hidden;
+ }
+ #piano2keydiv
+ {
+  height:100vh;
+  border:2px solid red;
+ }

@@ -1,0 +1,45 @@
+.notesh1
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-left: 33%;
+    color:blueviolet;
+    border: 0.3vw dashed black;
+    background-color: aliceblue;
+    position:relative;
+    bottom:1vh;
+}
+.notesmain
+{
+    background-color: rgb(171, 139, 171);
+}
+.notesh2{
+    font-size: 5vh;
+    border:1vh double black;
+    background-color:white;
+    color: black;
+
+}
+.ni
+{
+    margin-left:35%;
+    height:80vh;
+}
+.ni1
+{
+    margin-left:35%;
+    height:80vh;
+    width:35vw;
+}
+.ni2
+{
+    margin-left:35%;
+    height:80vh;
+    width:35vw;
+}
+.ni3
+{
+    margin-left:35%;
+    height:80vh;
+    width:35vw;
+}

@@ -1,0 +1,22 @@
+.choosemaindiv
+{
+    background-color: pink;
+    height:80vh;
+}
+.choosebutton1
+{
+    height:100%;
+    width:50%;
+    background-color:rgb(94, 173, 146);
+    position:relative;
+    bottom: 1vh;
+
+
+}
+.choosebutton2
+{
+    height:100%;
+    width:50%;
+    background-color:rgba(255, 255, 0, 0.89);
+
+}

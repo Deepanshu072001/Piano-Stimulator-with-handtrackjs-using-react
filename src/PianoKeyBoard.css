@@ -1,0 +1,43 @@
+.table1
+{
+    width:50%;
+}
+.pianokeyboarddiv
+{
+    display:flex;
+    flex-wrap: wrap;
+
+}
+.pianokeyboardheading
+{
+    padding-left: 43%;
+    border:1vw solid black;
+    background-color:whitesmoke;
+    animation:ayush 10s linear infinite;
+    animation:Skew 2s linear infinite;
+}
+@keyframes Skew {
+    0%{
+        transform: skew(-10deg);
+    }
+    20%
+    {
+        transform:skew(-25deg);
+    }
+    60%
+    {
+        transform: skew(-30deg);
+    }
+    70%{
+        transform: skew(10deg);
+    }
+    90%
+    {
+        transform:skew(25deg);
+    }
+    100%
+    {
+        transform: skew(30deg);
+    }
+    
+}

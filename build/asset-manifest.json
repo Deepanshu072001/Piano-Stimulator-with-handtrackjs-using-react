@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71c93938.css",
+    "main.js": "/static/js/main.95da8f0e.js",
+    "static/js/453.5565870f.chunk.js": "/static/js/453.5565870f.chunk.js",
+    "static/media/Justin2.jpg": "/static/media/Justin2.50067b71fd4b206f6aca.jpg",
+    "static/media/Alan3.jpg": "/static/media/Alan3.7ab65015532b2574e4bc.jpg",
+    "static/media/Ed2.jpg": "/static/media/Ed2.df7f5caa96d10d132bcb.jpg",
+    "static/media/PianoInstruct.jpg": "/static/media/PianoInstruct.e8228ee5f13ef7030963.jpg",
+    "static/media/Alan2.jpg": "/static/media/Alan2.4ba1382af6edecddb420.jpg",
+    "static/media/Justin3.jpg": "/static/media/Justin3.e69ff0fec57775dce7f8.jpg",
+    "static/media/Justin1.jpg": "/static/media/Justin1.3182bf4c70e2299c9b48.jpg",
+    "static/media/Ed1.jpg": "/static/media/Ed1.32f8abec747c646e4388.jpg",
+    "static/media/Twinkle .jpg": "/static/media/Twinkle .a5f58a744965f72d6948.jpg",
+    "static/media/Ed3.jpg": "/static/media/Ed3.8f0c4f34bbdc5b0e1a11.jpg",
+    "static/media/piano.png": "/static/media/piano.95eb9f19c54da100a83b.png",
+    "static/media/Alan1.jpg": "/static/media/Alan1.efce001507d3e29a33a8.jpg",
+    "static/media/keyboard.jpg": "/static/media/keyboard.c44b4dd94252e4a63e5f.jpg",
+    "static/media/Happy.jpg": "/static/media/Happy.6affcc53b969ec2ab414.jpg",
+    "static/media/Jingle.jpg": "/static/media/Jingle.1978ca9f17bdf51955a4.jpg",
+    "static/media/Card.jpg": "/static/media/Card.6855de4d0b2f3f12e256.jpg",
+    "static/media/tj.jpg": "/static/media/tj.975da858a38a4d114128.jpg",
+    "index.html": "/index.html",
+    "main.71c93938.css.map": "/static/css/main.71c93938.css.map",
+    "main.95da8f0e.js.map": "/static/js/main.95da8f0e.js.map",
+    "453.5565870f.chunk.js.map": "/static/js/453.5565870f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c93938.css",
+    "static/js/main.95da8f0e.js"
+  ]
+}

@@ -1,0 +1,22 @@
+.footerp
+{
+    margin-left:40vw;
+    font-size: 3vh;
+    color:antiquewhite
+}
+.footerdiv
+{
+    background-color: rgb(206, 62, 86);
+    position: relative;
+    bottom: 2vh;
+
+}
+.footerimage
+{
+    height:3vh;
+    width:3vw;
+    margin-right: 2vw;
+    margin-bottom: 2vh;;
+    position:relative;
+    left:43vw;
+}

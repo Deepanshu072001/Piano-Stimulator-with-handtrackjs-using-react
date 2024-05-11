@@ -1,0 +1,108 @@
+.black {
+  height: 25vh;
+  width: 3vw;
+  background-color: black;
+  position: relative;
+  bottom: 45vh;
+  right: 4vw;
+  border-radius: 7%;
+  margin-right: 2.5vw;
+}
+.n {
+  margin-left: 4vw;
+}
+.m {
+  margin-left: 4vw;
+}
+.first {
+  margin-left: 25vw;
+  margin-top: 10vh;
+}
+.firstb {
+  margin-left: 32vw;
+}
+.white {
+  height: 40vh;
+  width: 5vw;
+  background-color: white;
+  border-radius: 7%;
+}
+
+.main {
+  background-color:black;
+  height: 60vh;
+  width: 100vw;
+  border-radius: 10vw;
+  animation:ayush 10s linear infinite;
+}
+@keyframes ayush
+{
+  0%{
+    background-color: greenyellow;
+  }
+  20%
+  {
+    background-color: blueviolet;
+  }
+  40%
+  {
+    background-color: cadetblue;
+  }
+  60%
+  {
+    background-color: chocolate;
+  }
+  80%
+  {
+    background-color: cyan;
+  }
+  100%
+  {
+    background-color: darkkhaki;
+  }
+}
+.Name {
+  color: white;
+  position: relative;
+  left: 47vw;
+  top: 8vh;
+  font-size: 4vh;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  animation: a 2s linear infinite;
+  
+}
+@keyframes a {
+  100%
+  {
+    transform: skew(-25deg);
+    text-decoration:underline;
+  }
+  
+}
+.text
+{
+  display:inline;
+  margin-right:4.15vw ;
+  position: relative;
+  bottom:40vh;
+  font-size:3vh;
+}
+.textA
+{
+  margin-left: 27vw;;
+}
+.textb
+{
+  display:inline;
+  color:white;
+  margin-right:4.15vw ;
+  position: relative;
+  bottom:54vh;
+  right: 52.5vw;
+  font-size:3vh;
+}
+.t{
+  margin-left:5.2vw;
+
+}
